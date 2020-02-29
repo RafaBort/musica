@@ -1,2 +1,3 @@
 # musica
-exercício realizado na etec adolpho berezin
+exercício realizado na Etec Adolpho Berezin
+Aula de PC1
